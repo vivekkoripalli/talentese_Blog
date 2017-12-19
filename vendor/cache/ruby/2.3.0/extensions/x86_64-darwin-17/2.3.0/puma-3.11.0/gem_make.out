@@ -1,0 +1,21 @@
+current directory: /Users/home/Desktop/new_blog_vivek/tandemreaderblog/vendor/cache/ruby/2.3.0/gems/puma-3.11.0/ext/puma_http11
+/Users/home/.rvm/rubies/ruby-2.3.5/bin/ruby -r ./siteconf20171209-1834-lucjor.rb extconf.rb
+checking for BIO_read() in -lcrypto... yes
+checking for SSL_CTX_new() in -lssl... yes
+checking for openssl/bio.h... yes
+creating Makefile
+
+current directory: /Users/home/Desktop/new_blog_vivek/tandemreaderblog/vendor/cache/ruby/2.3.0/gems/puma-3.11.0/ext/puma_http11
+make "DESTDIR=" clean
+
+current directory: /Users/home/Desktop/new_blog_vivek/tandemreaderblog/vendor/cache/ruby/2.3.0/gems/puma-3.11.0/ext/puma_http11
+make "DESTDIR="
+compiling io_buffer.c
+compiling mini_ssl.c
+compiling puma_http11.c
+compiling http11_parser.c
+linking shared-object puma/puma_http11.bundle
+
+current directory: /Users/home/Desktop/new_blog_vivek/tandemreaderblog/vendor/cache/ruby/2.3.0/gems/puma-3.11.0/ext/puma_http11
+make "DESTDIR=" install
+/usr/local/opt/coreutils/bin/ginstall -c -m 0755 puma_http11.bundle ./.gem.20171209-1834-124cgwy/puma

@@ -1,0 +1,15 @@
+current directory: /Users/home/Desktop/new_blog_vivek/tandemreaderblog/vendor/cache/ruby/2.3.0/gems/bindex-0.5.0/ext/bindex
+/Users/home/.rvm/rubies/ruby-2.3.5/bin/ruby -r ./siteconf20171209-1834-1wvjegt.rb extconf.rb
+creating Makefile
+
+current directory: /Users/home/Desktop/new_blog_vivek/tandemreaderblog/vendor/cache/ruby/2.3.0/gems/bindex-0.5.0/ext/bindex
+make "DESTDIR=" clean
+
+current directory: /Users/home/Desktop/new_blog_vivek/tandemreaderblog/vendor/cache/ruby/2.3.0/gems/bindex-0.5.0/ext/bindex
+make "DESTDIR="
+compiling cruby.c
+linking shared-object bindex/cruby.bundle
+
+current directory: /Users/home/Desktop/new_blog_vivek/tandemreaderblog/vendor/cache/ruby/2.3.0/gems/bindex-0.5.0/ext/bindex
+make "DESTDIR=" install
+/usr/local/opt/coreutils/bin/ginstall -c -m 0755 cruby.bundle ./.gem.20171209-1834-ua84p1/bindex
